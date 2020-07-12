@@ -1,0 +1,6 @@
+/.flooignore
+/.floo
+/build/libs/Banquito-1.0-SNAPSHOT.jar
+/build/classes/java/main/BanquitoLauncher.class
+/build/classes/java/main/infraestructure/BanquitoAPI.class
+/.idea/
