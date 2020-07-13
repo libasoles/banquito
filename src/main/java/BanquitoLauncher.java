@@ -1,7 +1,8 @@
-import infraestructure.BanquitoAPI;
+import infraestructure.Routes;
 
 public class BanquitoLauncher {
     public static void main(String[] args) {
-        BanquitoAPI.create();
+        Routes routes = new Routes();
+        routes.create();
     }
 }

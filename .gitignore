@@ -4,3 +4,5 @@
 /build/classes/java/main/BanquitoLauncher.class
 /build/classes/java/main/infraestructure/BanquitoAPI.class
 /.idea/
+/caches/
+/build/
